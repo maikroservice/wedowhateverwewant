@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'wedowhateverwewant.com',
+  name: 'WeDoWhateverWeWant.com',
   domain: 'wedowhateverwewant.com',
-  author: 'wedowhateverwewant.com',
+  author: 'WeDoWhateverWeWant.com',
 
   // open graph metadata (optional)
   description: 'Our Blog about the Journey to Financial Independence',
